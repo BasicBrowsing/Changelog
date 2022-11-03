@@ -20,4 +20,6 @@ following features have been implemented:
 
 - [ ] Basic Interface
 
+- [ ] Translation Tools
+
 <br>
