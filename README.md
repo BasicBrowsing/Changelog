@@ -20,7 +20,7 @@
 
 <!----------------------------------------------------------------------------->
 
-[Schedule]: Schedule/Releases.md
+[Schedule]: Articles/Release%20Schedule.md
 [Releases]: Releases
 
 
