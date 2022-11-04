@@ -17,7 +17,7 @@
 
 -   Implemented translation bundling
 
--   
+-   Implemented basic bundling for assets / code
 
 
 <br>
